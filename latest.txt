@@ -1,0 +1,3 @@
+version=0.9.4
+sha256=a4eb4b5d4a0c5e369e1413eaec8958e7c662584e6e0d29034fc67aeb274dfc79
+parts=payload/0.9.4/part0,payload/0.9.4/part1,payload/0.9.4/part2
