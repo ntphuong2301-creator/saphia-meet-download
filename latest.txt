@@ -1,6 +1,6 @@
-version=0.9.5
-sha256=9f6c21ae4fb76abeac810e0b75aa9dce53bc5f0fb34c9927a215d8357a0a785e
-parts=payload/0.9.5/part0,payload/0.9.5/part1,payload/0.9.5/part2
-patch_sha256=9e77d27cdf0486f205623a059e8923ae92abc2b6bc19a81587a1c9711c5cdf90
+version=0.9.6
+sha256=6384bf886ba43cfd4a461588aae2ef17eb29c659d1acad0e107b10c22d87f0f7
+parts=payload/0.9.6/part0,payload/0.9.6/part1,payload/0.9.6/part2
+patch_sha256=6b7baabcd03683cbbf34f9c11d3b24cfa0835345bbbac364ffcbf662b470cca9
 patch_min=0.8.0
-notes=Tự báo bản mới và cập nhật bằng 1 nút; phân tích ngay bản ghi điện thoại; nhập cuộc họp từ lời chép/file; chat gửi tài liệu
+notes=Biên bản phân tích sâu bằng Opus; Claude nhớ các cuộc họp trước và đọc bối cảnh công ty; nhịp nhanh rẻ và nhanh hơn
