@@ -4,10 +4,12 @@
 
 ## Tải bản mới nhất
 
-- **Máy chưa cài:** [Tải bộ cài đầy đủ (~126 MB)](https://github.com/ntphuong2301-creator/saphia-meet-download/releases/latest/download/SaphiaMeet-CaiDat.exe)
-- **Máy đã cài bản cũ:** [Tải bản cập nhật nhỏ (~6 MB)](https://github.com/ntphuong2301-creator/saphia-meet-download/releases/latest/download/SaphiaMeet-CapNhat.exe)
+- **Máy chưa cài:** [Tải trình cài (tự tải bản mới nhất, ~126 MB)](https://github.com/ntphuong2301-creator/saphia-meet-download/raw/main/SaphiaMeet-CaiDat.exe)
+- **Máy đã cài bản cũ:** [Tải bản cập nhật nhỏ (~6 MB)](https://github.com/ntphuong2301-creator/saphia-meet-download/raw/main/SaphiaMeet-CapNhat.exe)
 
-Hai link trên luôn trỏ về bản mới nhất.
+Hai link trên luôn trỏ về bản mới nhất. Trình cài cần Internet trong lúc cài.
+
+Phiên bản hiện tại: xem file `latest.txt`.
 
 ## Cài đặt
 
