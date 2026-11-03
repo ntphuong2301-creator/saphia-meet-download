@@ -1,6 +1,6 @@
-version=0.9.7
-sha256=0ee5921c4548527af5072f92af54509ab34897b0cd279cfcefc5bb0e3f0bc538
-parts=payload/0.9.7/part0,payload/0.9.7/part1,payload/0.9.7/part2
-patch_sha256=170f49898d9605899b2bca9e93d2783a0acd2d679b5c0db971d323abe15d7c32
+version=0.9.8
+sha256=ba9218a17517f5c55e56093284c7f92fef2bc4d31080c7fb2da702ae2d198e2d
+parts=payload/0.9.8/part0,payload/0.9.8/part1,payload/0.9.8/part2
+patch_sha256=67700cb9fafea7b33e54f6331c7f700f01d0cf405ac3734f5d9a8d5a33ca195b
 patch_min=0.8.0
-notes=Biên bản dễ đọc hơn: mỗi người một màu, một nút chính; chiếu TV nền tối; bản PDF chia sẻ gọn hơn
+notes=Trả lại nút Hỏi Claude có chữ; bấm trạng thái Claude để cập nhật ngay; Ghim ý trong menu chuột phải; số lần AI và chi phí trong Menu
