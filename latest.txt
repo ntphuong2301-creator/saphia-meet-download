@@ -1,6 +1,6 @@
-version=1.0.0
-sha256=15c5e5d190af1f0a2e7640e9c5b099591055280f58b51b02bb5123425ab33931
-parts=payload/1.0.0/part0,payload/1.0.0/part1,payload/1.0.0/part2
-patch_sha256=a1f543e241f043e8666bc6e30050ad934a065f81f905bd7af633052af624f026
+version=1.0.1
+sha256=78a3236ac662f262ad161fc330214c73a4fb4f90fdca4db6e928993abb67b523
+parts=payload/1.0.1/part0,payload/1.0.1/part1,payload/1.0.1/part2
+patch_sha256=ee745f14ba8dfe7ee97049ee3b84802bbed589e1079f9a12c4461aac093adf27
 patch_min=0.8.0
-notes=Bản 1.0: nút nổi một chạm để ghi, danh sách ghi âm, sao chép nhanh, góp ý
+notes=Sửa lỗi hiện cuộc họp cũ; góp ý đính kèm ảnh hoặc dán Ctrl+V
