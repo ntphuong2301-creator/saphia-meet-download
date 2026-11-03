@@ -1,6 +1,6 @@
-version=0.9.6
-sha256=6384bf886ba43cfd4a461588aae2ef17eb29c659d1acad0e107b10c22d87f0f7
-parts=payload/0.9.6/part0,payload/0.9.6/part1,payload/0.9.6/part2
-patch_sha256=6b7baabcd03683cbbf34f9c11d3b24cfa0835345bbbac364ffcbf662b470cca9
+version=0.9.7
+sha256=0ee5921c4548527af5072f92af54509ab34897b0cd279cfcefc5bb0e3f0bc538
+parts=payload/0.9.7/part0,payload/0.9.7/part1,payload/0.9.7/part2
+patch_sha256=170f49898d9605899b2bca9e93d2783a0acd2d679b5c0db971d323abe15d7c32
 patch_min=0.8.0
-notes=Biên bản phân tích sâu bằng Opus; Claude nhớ các cuộc họp trước và đọc bối cảnh công ty; nhịp nhanh rẻ và nhanh hơn
+notes=Biên bản dễ đọc hơn: mỗi người một màu, một nút chính; chiếu TV nền tối; bản PDF chia sẻ gọn hơn
