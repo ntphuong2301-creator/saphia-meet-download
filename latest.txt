@@ -1,6 +1,6 @@
-version=1.0.2
-sha256=1f54b609f580e25612b4ede8a9058783e922d7df021229bcd0b0415bb4b8cba9
-parts=payload/1.0.2/part0,payload/1.0.2/part1,payload/1.0.2/part2
-patch_sha256=d5dc1240bf3ced544c0779ed5d16a240ff1b0604ce6463c05b6c274a320be5b0
+version=1.1.0
+sha256=5636429f4e6c8c300c5b14638cd144fad480a9f2bbc13bf2ee67c6f65582be6f
+parts=payload/1.1.0/part0,payload/1.1.0/part1,payload/1.1.0/part2
+patch_sha256=43a99239011774e1e489a190a99a81d59533c91634a5060278eebc4158c33169
 patch_min=0.8.0
-notes=Nhập ghi âm từ điện thoại: tự chép lời file trong thư mục Từ điện thoại
+notes=Chép lời rõ hơn: câu liền mạch, tách người nói sau họp, từ điển Saphia sửa tên riêng
