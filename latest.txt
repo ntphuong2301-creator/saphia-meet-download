@@ -1,6 +1,6 @@
-version=1.1.0
-sha256=5636429f4e6c8c300c5b14638cd144fad480a9f2bbc13bf2ee67c6f65582be6f
-parts=payload/1.1.0/part0,payload/1.1.0/part1,payload/1.1.0/part2
-patch_sha256=43a99239011774e1e489a190a99a81d59533c91634a5060278eebc4158c33169
+version=1.1.1
+sha256=cd709a3ffe15d3d570b4da9444dbaa150b8bde6cd11af21f8dd38c10b5e1ddcb
+parts=payload/1.1.1/part0,payload/1.1.1/part1,payload/1.1.1/part2
+patch_sha256=3caa44a47ea0a6f82a3183bf08c0dda5ea066bc0de0128ae8a3621c9d7be2249
 patch_min=0.8.0
-notes=Chép lời rõ hơn: câu liền mạch, tách người nói sau họp, từ điển Saphia sửa tên riêng
+notes=Tách người nói gọn hơn (ngưỡng mới, gộp người nói ít)
