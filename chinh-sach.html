@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Chính sách quyền riêng tư – Saphia Meet</title>
+<style>
+body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;max-width:720px;margin:0 auto;padding:40px 20px;line-height:1.6;color:#1f2328}
+.sub{color:#59636e}a{color:#0b57d0}ul{padding-left:20px}hr{margin:40px 0;border:0;border-top:1px solid #d1d9e0}
+</style>
+</head>
+<body>
+<p><a href="./">← Saphia Meet</a></p>
+<h1>Chính sách quyền riêng tư</h1>
+<p class="sub">Áp dụng cho Saphia Meet trên Windows và Android · Cập nhật 09/11/2026</p>
+
+<h2>1. Dữ liệu ứng dụng xử lý</h2>
+<ul>
+<li><b>File ghi âm và lời chép:</b> được tạo và lưu trên thiết bị của người dùng. Việc chép lời chạy ngay trên máy tính của người dùng.</li>
+<li><b>Google Drive:</b> khi người dùng bấm "Kết nối Google", ứng dụng xin quyền <code>drive.file</code>. Quyền này chỉ cho phép ứng dụng đọc và ghi <b>các file do chính Saphia Meet tạo ra</b> (thư mục "Saphia Meet - Điện thoại" và các file bên trong). Ứng dụng không xem được các file khác trong Drive của người dùng.</li>
+<li><b>Địa chỉ email Google:</b> chỉ dùng để hiển thị tài khoản nào đang kết nối.</li>
+</ul>
+
+<h2>2. Dữ liệu được gửi đi đâu</h2>
+<ul>
+<li>File ghi âm và lời chép chỉ được gửi lên <b>Google Drive của chính người dùng</b>.</li>
+<li>Để đăng nhập Google, ứng dụng gửi mã đăng nhập tạm thời qua một máy chủ trung gian của Saphia (trên Supabase) để đổi lấy mã truy cập Google. Máy chủ này chỉ chuyển tiếp yêu cầu tới Google, <b>không lưu</b> mã, file ghi âm hay nội dung cuộc họp.</li>
+<li>Saphia Group không bán, không chia sẻ dữ liệu người dùng cho bên thứ ba, và không dùng dữ liệu cho quảng cáo.</li>
+</ul>
+
+<h2>3. Lưu trữ và xóa</h2>
+<ul>
+<li>Mã truy cập Google chỉ lưu trên thiết bị của người dùng: trên máy tính được mã hóa bằng cơ chế của Windows; trên điện thoại nằm trong vùng lưu trữ riêng của ứng dụng mà ứng dụng khác không đọc được.</li>
+<li>Người dùng có thể ngắt kết nối bất cứ lúc nào trong ứng dụng (máy tính: Cài đặt → Ngắt kết nối; điện thoại: Đổi tài khoản), hoặc thu hồi quyền tại <a href="https://myaccount.google.com/permissions">myaccount.google.com/permissions</a>.</li>
+<li>File trên Drive thuộc quyền của người dùng và có thể xóa trực tiếp trong Google Drive.</li>
+</ul>
+
+<h2>4. Tuân thủ chính sách dữ liệu của Google</h2>
+<p>Việc Saphia Meet sử dụng và chuyển giao thông tin nhận được từ Google API tuân thủ <a href="https://developers.google.com/terms/api-services-user-data-policy">Google API Services User Data Policy</a>, bao gồm các yêu cầu về Giới hạn sử dụng (Limited Use).</p>
+
+<h2>5. Liên hệ</h2>
+<p>Saphia Group · <a href="mailto:ntphuong2301@gmail.com">ntphuong2301@gmail.com</a></p>
+
+<hr>
+<h2 lang="en">Privacy Policy (English summary)</h2>
+<div lang="en">
+<p>Saphia Meet records meetings and transcribes them on the user's own device. When the user connects Google, the app requests the <code>drive.file</code> scope only, which limits access to files created by Saphia Meet itself. Recordings and transcripts are uploaded only to the user's own Google Drive. The user's Google email is used only to show which account is connected. Sign-in codes pass through a Saphia token relay (hosted on Supabase) that forwards them to Google and stores nothing. Tokens are stored only on the device (encrypted with Windows data protection on PC; in app-private storage on Android). We do not sell or share user data and do not use it for advertising. Users can disconnect in the app or revoke access at myaccount.google.com/permissions.</p>
+<p>Saphia Meet's use and transfer of information received from Google APIs adheres to the <a href="https://developers.google.com/terms/api-services-user-data-policy">Google API Services User Data Policy</a>, including the Limited Use requirements.</p>
+<p>Contact: ntphuong2301@gmail.com</p>
+</div>
+</body>
+</html>
